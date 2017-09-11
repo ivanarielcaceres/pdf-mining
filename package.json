@@ -1,0 +1,28 @@
+{
+  "name": "pdf-mining",
+  "version": "1.0.0",
+  "description": "Scrapping pdf",
+  "main": "origin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivanarielcaceres/pdf-mining.git"
+  },
+  "keywords": [
+    "pdf",
+    "mining",
+    "scrapping"
+  ],
+  "author": "Ivan Caceres",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ivanarielcaceres/pdf-mining/issues"
+  },
+  "homepage": "https://github.com/ivanarielcaceres/pdf-mining#readme",
+  "dependencies": {
+    "hummus": "^1.0.81",
+    "pdfreader": "^0.2.4"
+  }
+}
